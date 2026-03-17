@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m student of Software Engineering<br>👯 I’m looking for Internships<br>🌱 I’m currently learning Data Science & ML<br>
+🔭 I’m student of Software Engineering<br>👯 Currently working at DevelopersHub Corporation as Data Science and Analytics intern<br>🌱 I’m currently learning Data Science & ML<br>
 
 
 ## 🌐 Socials:
