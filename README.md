@@ -54,21 +54,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ishaque-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaque-01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaque-01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishaque-01&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
-</p>
-
----
-
 <p align="center"><i>Thanks for stopping by — feel free to explore my repos or drop a message!</i></p>
